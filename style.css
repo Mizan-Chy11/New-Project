@@ -1,0 +1,24 @@
+style
+{
+	padding: 0;
+	margin: 0;
+}
+  canvas {
+background : rgb(255, 255, 255);
+display: block;
+margin: 0 auto;
+
+
+}
+
+/*
+
+#image {
+  height : 150px ;
+  width : 150px ;
+
+background:
+url("https://i.imgur.com/qf1uMHC.png") 0px 0px;
+}
+
+*/
